@@ -18,8 +18,9 @@
     <link href="https://instaservices.blob.core.windows.net/instaservices/style.css" rel="stylesheet" type="text/css" />
 
     <link rel="shortcut icon" href="https://instaservices.blob.core.windows.net/instaservices/favicon.ico" />
-    <%= stylesheet_link_tag    'application', media: 'all' %>
-    <%= javascript_include_tag 'application' %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
 
     <script src="//a.mailmunch.co/app/v1/site.js" id="mailmunch-script" data-mailmunch-site-id="423786" async="async"></script>
 
