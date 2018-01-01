@@ -1,0 +1,213 @@
+I, [2017-09-23T14:51:53.576654 #40980]  INFO -- : Refreshing Gem list
+I, [2017-09-23T14:52:00.439567 #40980]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-09-23T14:52:00.439696 #40980]  INFO -- : worker=0 spawning...
+I, [2017-09-23T14:52:00.440831 #40980]  INFO -- : master process ready
+I, [2017-09-23T14:52:00.449617 #40989]  INFO -- : worker=0 spawned pid=40989
+I, [2017-09-23T14:52:00.449756 #40989]  INFO -- : worker=0 ready
+I, [2017-09-23T19:04:34.850674 #40980]  INFO -- : reaped #<Process::Status: pid 40989 exit 0> worker=0
+I, [2017-09-23T19:04:34.850963 #40980]  INFO -- : master complete
+I, [2017-09-23T19:04:44.398674 #2342]  INFO -- : Refreshing Gem list
+I, [2017-09-23T19:04:55.198782 #2342]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-09-23T19:04:55.206917 #2342]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-09-23T19:04:55.207034 #2342]  INFO -- : worker=0 spawning...
+I, [2017-09-23T19:04:55.228537 #2342]  INFO -- : master process ready
+I, [2017-09-23T19:04:55.241085 #2366]  INFO -- : worker=0 spawned pid=2366
+I, [2017-09-23T19:04:55.241202 #2366]  INFO -- : worker=0 ready
+I, [2017-09-25T03:13:54.196884 #2342]  INFO -- : reaped #<Process::Status: pid 2366 exit 0> worker=0
+I, [2017-09-25T03:13:54.198170 #2342]  INFO -- : master complete
+I, [2017-09-25T03:14:16.618182 #61020]  INFO -- : Refreshing Gem list
+I, [2017-09-25T03:14:23.937684 #61020]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-09-25T03:14:23.945779 #61020]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-09-25T03:14:23.945899 #61020]  INFO -- : worker=0 spawning...
+I, [2017-09-25T03:14:23.947035 #61020]  INFO -- : master process ready
+I, [2017-09-25T03:14:23.956140 #61031]  INFO -- : worker=0 spawned pid=61031
+I, [2017-09-25T03:14:23.956344 #61031]  INFO -- : worker=0 ready
+I, [2017-09-25T03:23:20.340621 #61020]  INFO -- : reaped #<Process::Status: pid 61031 exit 0> worker=0
+I, [2017-09-25T03:23:20.340721 #61020]  INFO -- : master complete
+I, [2017-09-25T03:23:44.149368 #61676]  INFO -- : Refreshing Gem list
+I, [2017-09-25T03:23:51.054290 #61676]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-09-25T03:23:51.055075 #61676]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-09-25T03:23:51.055188 #61676]  INFO -- : worker=0 spawning...
+I, [2017-09-25T03:23:51.064081 #61676]  INFO -- : master process ready
+I, [2017-09-25T03:23:51.073546 #61687]  INFO -- : worker=0 spawned pid=61687
+I, [2017-09-25T03:23:51.073687 #61687]  INFO -- : worker=0 ready
+I, [2017-09-25T03:38:15.824203 #61676]  INFO -- : reaped #<Process::Status: pid 61687 exit 0> worker=0
+I, [2017-09-25T03:38:15.824376 #61676]  INFO -- : master complete
+I, [2017-09-25T03:40:18.951772 #62651]  INFO -- : Refreshing Gem list
+I, [2017-09-25T03:40:25.961165 #62651]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-09-25T03:40:25.961989 #62651]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-09-25T03:40:25.962093 #62651]  INFO -- : worker=0 spawning...
+I, [2017-09-25T03:40:25.970953 #62651]  INFO -- : master process ready
+I, [2017-09-25T03:40:25.982495 #62662]  INFO -- : worker=0 spawned pid=62662
+I, [2017-09-25T03:40:25.982627 #62662]  INFO -- : worker=0 ready
+I, [2017-09-26T10:16:46.564487 #62651]  INFO -- : reaped #<Process::Status: pid 62662 exit 0> worker=0
+I, [2017-09-26T10:16:46.564762 #62651]  INFO -- : master complete
+I, [2017-09-26T10:20:13.563837 #35517]  INFO -- : Refreshing Gem list
+I, [2017-09-26T10:20:20.409970 #35517]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-09-26T10:20:20.415266 #35517]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-09-26T10:20:20.415812 #35517]  INFO -- : worker=0 spawning...
+I, [2017-09-26T10:20:20.427675 #35517]  INFO -- : master process ready
+I, [2017-09-26T10:20:20.426670 #35524]  INFO -- : worker=0 spawned pid=35524
+I, [2017-09-26T10:20:20.432218 #35524]  INFO -- : worker=0 ready
+I, [2017-09-26T14:30:41.931366 #35517]  INFO -- : reaped #<Process::Status: pid 35524 exit 0> worker=0
+I, [2017-09-26T14:30:41.931480 #35517]  INFO -- : master complete
+I, [2017-09-26T14:33:43.334066 #49420]  INFO -- : Refreshing Gem list
+I, [2017-09-26T14:33:50.012340 #49420]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-09-26T14:33:50.020956 #49420]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-09-26T14:33:50.021059 #49420]  INFO -- : worker=0 spawning...
+I, [2017-09-26T14:33:50.022235 #49420]  INFO -- : master process ready
+I, [2017-09-26T14:33:50.031178 #49431]  INFO -- : worker=0 spawned pid=49431
+I, [2017-09-26T14:33:50.031402 #49431]  INFO -- : worker=0 ready
+I, [2017-09-26T14:40:02.769203 #49420]  INFO -- : reaped #<Process::Status: pid 49431 exit 0> worker=0
+I, [2017-09-26T14:40:02.769306 #49420]  INFO -- : master complete
+I, [2017-09-26T14:40:15.943647 #49931]  INFO -- : Refreshing Gem list
+I, [2017-09-26T14:40:22.692716 #49931]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-09-26T14:40:22.693470 #49931]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-09-26T14:40:22.693566 #49931]  INFO -- : worker=0 spawning...
+I, [2017-09-26T14:40:22.702610 #49931]  INFO -- : master process ready
+I, [2017-09-26T14:40:22.712039 #49938]  INFO -- : worker=0 spawned pid=49938
+I, [2017-09-26T14:40:22.712154 #49938]  INFO -- : worker=0 ready
+I, [2017-09-26T14:41:11.659760 #49931]  INFO -- : reaped #<Process::Status: pid 49938 exit 0> worker=0
+I, [2017-09-26T14:41:11.659866 #49931]  INFO -- : master complete
+I, [2017-09-26T14:42:13.728912 #50189]  INFO -- : Refreshing Gem list
+I, [2017-09-26T14:42:20.473512 #50189]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-09-26T14:42:20.481826 #50189]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-09-26T14:42:20.481925 #50189]  INFO -- : worker=0 spawning...
+I, [2017-09-26T14:42:20.483026 #50189]  INFO -- : master process ready
+I, [2017-09-26T14:42:20.492384 #50196]  INFO -- : worker=0 spawned pid=50196
+I, [2017-09-26T14:42:20.492535 #50196]  INFO -- : worker=0 ready
+I, [2017-09-26T14:55:26.377491 #50189]  INFO -- : reaped #<Process::Status: pid 50196 exit 0> worker=0
+I, [2017-09-26T14:55:26.377606 #50189]  INFO -- : master complete
+I, [2017-09-26T14:57:37.187326 #51236]  INFO -- : Refreshing Gem list
+I, [2017-09-26T14:57:43.790467 #51236]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-09-26T14:57:43.798367 #51236]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-09-26T14:57:43.798477 #51236]  INFO -- : worker=0 spawning...
+I, [2017-09-26T14:57:43.799672 #51236]  INFO -- : master process ready
+I, [2017-09-26T14:57:43.808752 #51243]  INFO -- : worker=0 spawned pid=51243
+I, [2017-09-26T14:57:43.808908 #51243]  INFO -- : worker=0 ready
+I, [2017-09-26T15:15:09.293087 #51236]  INFO -- : reaped #<Process::Status: pid 51243 exit 0> worker=0
+I, [2017-09-26T15:15:09.293190 #51236]  INFO -- : master complete
+I, [2017-09-26T15:15:38.593864 #52485]  INFO -- : Refreshing Gem list
+I, [2017-09-26T15:15:45.413280 #52485]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-09-26T15:15:45.414057 #52485]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-09-26T15:15:45.414181 #52485]  INFO -- : worker=0 spawning...
+I, [2017-09-26T15:15:45.423641 #52496]  INFO -- : worker=0 spawned pid=52496
+I, [2017-09-26T15:15:45.423767 #52496]  INFO -- : worker=0 ready
+I, [2017-09-26T15:15:45.423937 #52485]  INFO -- : master process ready
+I, [2017-09-26T15:20:43.371593 #52485]  INFO -- : reaped #<Process::Status: pid 52496 exit 0> worker=0
+I, [2017-09-26T15:20:43.371700 #52485]  INFO -- : master complete
+I, [2017-09-26T15:21:56.119712 #52978]  INFO -- : Refreshing Gem list
+I, [2017-09-26T15:22:02.869447 #52978]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-09-26T15:22:02.870221 #52978]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-09-26T15:22:02.870319 #52978]  INFO -- : worker=0 spawning...
+I, [2017-09-26T15:22:02.879369 #52978]  INFO -- : master process ready
+I, [2017-09-26T15:22:02.889711 #52991]  INFO -- : worker=0 spawned pid=52991
+I, [2017-09-26T15:22:02.889844 #52991]  INFO -- : worker=0 ready
+I, [2017-09-26T15:30:08.676375 #52978]  INFO -- : reaped #<Process::Status: pid 52991 exit 0> worker=0
+I, [2017-09-26T15:30:08.676472 #52978]  INFO -- : master complete
+I, [2017-09-26T15:30:17.307806 #53524]  INFO -- : Refreshing Gem list
+I, [2017-09-26T15:30:24.127880 #53524]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-09-26T15:30:24.128742 #53524]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-09-26T15:30:24.128827 #53524]  INFO -- : worker=0 spawning...
+I, [2017-09-26T15:30:24.138191 #53536]  INFO -- : worker=0 spawned pid=53536
+I, [2017-09-26T15:30:24.138308 #53536]  INFO -- : worker=0 ready
+I, [2017-09-26T15:30:24.129950 #53524]  INFO -- : master process ready
+I, [2017-09-26T15:42:53.391151 #53524]  INFO -- : reaped #<Process::Status: pid 53536 exit 0> worker=0
+I, [2017-09-26T15:42:53.391258 #53524]  INFO -- : master complete
+I, [2017-09-26T15:43:19.789898 #54447]  INFO -- : Refreshing Gem list
+I, [2017-09-26T15:43:26.475369 #54447]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-09-26T15:43:26.483730 #54447]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-09-26T15:43:26.483830 #54447]  INFO -- : worker=0 spawning...
+I, [2017-09-26T15:43:26.484981 #54447]  INFO -- : master process ready
+I, [2017-09-26T15:43:26.493988 #54454]  INFO -- : worker=0 spawned pid=54454
+I, [2017-09-26T15:43:26.494101 #54454]  INFO -- : worker=0 ready
+I, [2017-09-28T11:56:52.012897 #54447]  INFO -- : reaped #<Process::Status: pid 54454 exit 0> worker=0
+I, [2017-09-28T11:56:52.013340 #54447]  INFO -- : master complete
+I, [2017-09-28T11:58:35.216581 #29730]  INFO -- : Refreshing Gem list
+I, [2017-09-28T11:58:42.865364 #29730]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-09-28T11:58:42.866801 #29730]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-09-28T11:58:42.866899 #29730]  INFO -- : worker=0 spawning...
+I, [2017-09-28T11:58:42.876524 #29730]  INFO -- : master process ready
+I, [2017-09-28T11:58:42.886633 #29742]  INFO -- : worker=0 spawned pid=29742
+I, [2017-09-28T11:58:42.886755 #29742]  INFO -- : worker=0 ready
+I, [2017-09-29T05:50:52.725774 #29730]  INFO -- : reaped #<Process::Status: pid 29742 exit 0> worker=0
+I, [2017-09-29T05:50:52.725881 #29730]  INFO -- : master complete
+I, [2017-09-29T05:52:09.285532 #35684]  INFO -- : Refreshing Gem list
+I, [2017-09-29T05:52:15.814651 #35684]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-09-29T05:52:15.815713 #35684]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-09-29T05:52:15.815808 #35684]  INFO -- : worker=0 spawning...
+I, [2017-09-29T05:52:15.824690 #35684]  INFO -- : master process ready
+I, [2017-09-29T05:52:15.834243 #35694]  INFO -- : worker=0 spawned pid=35694
+I, [2017-09-29T05:52:15.834344 #35694]  INFO -- : worker=0 ready
+I, [2017-09-30T04:12:29.374883 #35684]  INFO -- : reaped #<Process::Status: pid 35694 exit 0> worker=0
+I, [2017-09-30T04:12:29.375654 #35684]  INFO -- : master complete
+I, [2017-09-30T04:12:40.497585 #2247]  INFO -- : Refreshing Gem list
+I, [2017-09-30T04:12:48.218750 #2247]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-09-30T04:12:48.219532 #2247]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-09-30T04:12:48.219619 #2247]  INFO -- : worker=0 spawning...
+I, [2017-09-30T04:12:48.228477 #2247]  INFO -- : master process ready
+I, [2017-09-30T04:12:48.238124 #2262]  INFO -- : worker=0 spawned pid=2262
+I, [2017-09-30T04:12:48.238222 #2262]  INFO -- : worker=0 ready
+I, [2017-09-30T12:43:53.474141 #2247]  INFO -- : reaped #<Process::Status: pid 2262 exit 0> worker=0
+I, [2017-09-30T12:43:53.474489 #2247]  INFO -- : master complete
+I, [2017-09-30T12:45:59.891583 #1383]  INFO -- : Refreshing Gem list
+I, [2017-09-30T12:46:08.463515 #1383]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-09-30T12:46:08.463653 #1383]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-09-30T12:46:08.463736 #1383]  INFO -- : worker=0 spawning...
+I, [2017-09-30T12:46:08.464659 #1383]  INFO -- : master process ready
+I, [2017-09-30T12:46:08.475113 #1392]  INFO -- : worker=0 spawned pid=1392
+I, [2017-09-30T12:46:08.475241 #1392]  INFO -- : worker=0 ready
+I, [2017-10-05T21:04:19.432202 #1383]  INFO -- : reaped #<Process::Status: pid 1392 exit 0> worker=0
+I, [2017-10-05T21:04:19.432800 #1383]  INFO -- : master complete
+I, [2017-10-06T12:53:32.164668 #1390]  INFO -- : Refreshing Gem list
+I, [2017-10-06T12:53:40.650177 #1390]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-10-06T12:53:40.650309 #1390]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-10-06T12:53:40.658437 #1390]  INFO -- : worker=0 spawning...
+I, [2017-10-06T12:53:40.659401 #1390]  INFO -- : master process ready
+I, [2017-10-06T12:53:40.668932 #1397]  INFO -- : worker=0 spawned pid=1397
+I, [2017-10-06T12:53:40.669059 #1397]  INFO -- : worker=0 ready
+I, [2017-10-06T13:43:12.762933 #1390]  INFO -- : reaped #<Process::Status: pid 1397 exit 0> worker=0
+I, [2017-10-06T13:43:12.763078 #1390]  INFO -- : master complete
+I, [2017-10-06T13:43:39.634534 #4649]  INFO -- : Refreshing Gem list
+I, [2017-10-06T13:43:45.557006 #4649]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-10-06T13:43:45.557144 #4649]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-10-06T13:43:45.557216 #4649]  INFO -- : worker=0 spawning...
+I, [2017-10-06T13:43:45.566312 #4657]  INFO -- : worker=0 spawned pid=4657
+I, [2017-10-06T13:43:45.566418 #4657]  INFO -- : worker=0 ready
+I, [2017-10-06T13:43:45.558198 #4649]  INFO -- : master process ready
+I, [2017-10-07T06:42:01.922764 #4649]  INFO -- : reaped #<Process::Status: pid 4657 exit 0> worker=0
+I, [2017-10-07T06:42:01.930832 #4649]  INFO -- : master complete
+I, [2017-10-07T06:43:01.792845 #9866]  INFO -- : Refreshing Gem list
+I, [2017-10-07T06:43:09.132389 #9866]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-10-07T06:43:09.132551 #9866]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-10-07T06:43:09.140624 #9866]  INFO -- : worker=0 spawning...
+I, [2017-10-07T06:43:09.142080 #9866]  INFO -- : master process ready
+I, [2017-10-07T06:43:09.151183 #9873]  INFO -- : worker=0 spawned pid=9873
+I, [2017-10-07T06:43:09.151304 #9873]  INFO -- : worker=0 ready
+I, [2017-10-13T07:14:46.861884 #9866]  INFO -- : reaped #<Process::Status: pid 9873 exit 0> worker=0
+I, [2017-10-13T07:14:46.870274 #9866]  INFO -- : master complete
+I, [2017-10-13T07:15:07.095372 #13882]  INFO -- : Refreshing Gem list
+I, [2017-10-13T07:15:16.148621 #13882]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-10-13T07:15:16.157979 #13882]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-10-13T07:15:16.158056 #13882]  INFO -- : worker=0 spawning...
+I, [2017-10-13T07:15:16.159120 #13882]  INFO -- : master process ready
+I, [2017-10-13T07:15:16.169733 #13899]  INFO -- : worker=0 spawned pid=13899
+I, [2017-10-13T07:15:16.169882 #13899]  INFO -- : worker=0 ready
+I, [2017-11-16T11:02:02.702441 #13882]  INFO -- : reaped #<Process::Status: pid 13899 exit 0> worker=0
+I, [2017-11-16T11:02:02.713089 #13882]  INFO -- : master complete
+I, [2017-11-16T11:02:19.807681 #37417]  INFO -- : Refreshing Gem list
+I, [2017-11-16T11:02:27.652844 #37417]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2017-11-16T11:02:27.661171 #37417]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2017-11-16T11:02:27.661257 #37417]  INFO -- : worker=0 spawning...
+I, [2017-11-16T11:02:27.662462 #37417]  INFO -- : master process ready
+I, [2017-11-16T11:02:27.673558 #37428]  INFO -- : worker=0 spawned pid=37428
+I, [2017-11-16T11:02:27.673646 #37428]  INFO -- : worker=0 ready
+I, [2018-01-01T06:28:05.141873 #37417]  INFO -- : reaped #<Process::Status: pid 37428 exit 0> worker=0
+I, [2018-01-01T06:28:05.142342 #37417]  INFO -- : master complete
+I, [2018-01-01T06:33:09.161980 #1369]  INFO -- : Refreshing Gem list
+I, [2018-01-01T06:33:18.639520 #1369]  INFO -- : unlinking existing socket=/home/kiran/getcloud/shared/sockets/unicorn.sock
+I, [2018-01-01T06:33:18.639645 #1369]  INFO -- : listening on addr=/home/kiran/getcloud/shared/sockets/unicorn.sock fd=11
+I, [2018-01-01T06:33:18.639742 #1369]  INFO -- : worker=0 spawning...
+I, [2018-01-01T06:33:18.640641 #1369]  INFO -- : master process ready
+I, [2018-01-01T06:33:18.651440 #1381]  INFO -- : worker=0 spawned pid=1381
+I, [2018-01-01T06:33:18.651543 #1381]  INFO -- : worker=0 ready
