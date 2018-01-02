@@ -322,7 +322,7 @@ a:focus{text-decoration:none;}
 .tt-header .cmn-toggle-switch.active::before{-webkit-transform:translateY(7px) rotate(45deg);-moz-transform:translateY(7px) rotate(45deg);-ms-transform:translateY(7px) rotate(45deg);transform:translateY(7px) rotate(45deg);-webkit-transform-origin:center center;-moz-transform-origin:center center;-ms-transform-origin:center center;transform-origin:center center;}
 .tt-header .cmn-toggle-switch.active::after{-webkit-transform:translateY(-7px) rotate(-45deg);-moz-transform:translateY(-7px) rotate(-45deg);-ms-transform:translateY(-7px) rotate(-45deg);transform:translateY(-7px) rotate(-45deg);-webkit-transform-origin:center center;-moz-transform-origin:center center;-ms-transform-origin:center center;transform-origin:center center;}
 .tt-header .cmn-toggle-switch.active span{opacity:0;}
-.tt-header + .tt-header-margin{height:245px;-webkit-transition:all 500ms ease-in-out;-moz-transition:all 500ms ease-in-out;transition:all 500ms ease-in-out;}
+.tt-header + .tt-header-margin{height:100px;-webkit-transition:all 500ms ease-in-out;-moz-transition:all 500ms ease-in-out;transition:all 500ms ease-in-out;}
 .tt-header.no-banner + .tt-header-margin{height:126px;}
 @media (max-width:1300px){
   .tt-header-banner-close{right:-10px;}
