@@ -8,5 +8,6 @@ Rails.application.routes.draw do
   get 'pages/orderform' => 'high_voltage/pages#show', id: 'orderform'
   get 'pages/hosting' => 'high_voltage/pages#show', id: 'hosting'
   get 'pages/contactus' => 'high_voltage/pages#show', id: 'contactus'
+  get 'pages/web-development-services' => 'high_voltage/pages#show', id: 'web-development-services'
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end

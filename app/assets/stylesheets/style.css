@@ -1728,3 +1728,25 @@ body[data-theme="turquoise"] .c-arrow-right.type-1.color-2{background-image:url(
   .marg-xs-b210{height:210px;}
 }
 
+.marg-lg-b501 {
+    height: 50px;
+}
+
+.row.subheading {
+    margin-top: 90px;
+}
+
+.tt-service-desciption {
+    margin-top: 150px;
+}
+
+.simple-text.size-3 {
+    font-size: 16px;
+    line-height: 24px;
+    color: black;
+}
+
+.simple-text.size-3.text-center.service-description {
+    font-size: 20px;
+    color: black;
+}
